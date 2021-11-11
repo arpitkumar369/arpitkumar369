@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 https://www.linkedin.com/in/arpit-kumar-aa5531139
 
+![](https://komarev.com/ghpvc/?username=arpitkumar369&color=brightgreen)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpitkumar369&theme=dark)](https://git.io/streak-stats)
  
 ![Arpit Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitkumar369&show_icons=true&theme=radical)
