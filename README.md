@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arpit Kumar
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding, development
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
