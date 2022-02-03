@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Arpit Kumar
-- 👀 I’m interested in coding, development
+- 👀 I’m interested in coding, web development
+- 👨‍💻 I practice questions on Leetcode https://leetcode.com/arpitkumar369/
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
