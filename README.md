@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-https://www.linkedin.com/in/arpitkumar-
+http://www.linkedin.com/in/arpit-kumar-in
 
 ![](https://komarev.com/ghpvc/?username=arpitkumar369&color=brightgreen)
 
